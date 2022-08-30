@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open dashboard.html",
+            "file": "e:\\Respaldos-Yerayen\\00_Respaldado_Enero2022\\YERAYEN\\CURSOS\\RICE_UI_UX\\Github-repository\\M21.EducationWicked\\dashboard.html"
+        }
+    ]
+}
