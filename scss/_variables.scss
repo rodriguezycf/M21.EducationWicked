@@ -44,9 +44,9 @@ $red:     #dc3545 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #ffc107 !default;
 
-// YR.Commented out original $green to redefine the color#
-//$green:   #198754 !default;
-$green:   #193e2e !default;
+
+$green:   #198754 !default;
+
 
 // YR.Commented out original $teal to redefine the color#
 //$teal:    #20c997 !default;
@@ -305,14 +305,9 @@ $cyans: (
 // fusv-enable
 
 // scss-docs-start theme-color-variables
-//YR. Commented out the original color to redefine the site color#
-//$primary:       $blue !default;
-$primary:       $green !default;
 
-//YR. Commented out the original color to redefine the site color#
-//$secondary:     $gray-600 !default;
-$secondary:     $teal !default;
-
+$primary:       $blue !default;
+$secondary:     $gray-600 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;

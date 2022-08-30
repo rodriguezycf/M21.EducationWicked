@@ -11,24 +11,24 @@
 }
 
 .link-primary {
-  color: #193e2e !important;
+  color: #0d6efd !important;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #143225 !important;
+  color: #0a58ca !important;
 }
 
 .link-secondary {
-  color: #008077 !important;
+  color: #6c757d !important;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: #00665f !important;
+  color: #565e64 !important;
 }
 
 .link-success {
-  color: #193e2e !important;
+  color: #198754 !important;
 }
 .link-success:hover, .link-success:focus {
-  color: #143225 !important;
+  color: #146c43 !important;
 }
 
 .link-info {
